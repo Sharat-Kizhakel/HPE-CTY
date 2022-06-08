@@ -1,10 +1,14 @@
 # HPE-CTY
-repository for hpe-cty reports
-Theme:Comparative study of various container runtimes
-PoC and demo:
+repository for HPE-CTY reports
+
+Theme: Comparative study of various container runtimes
+
+Objective:
+
+Most of containers today run on containerd as a high level container runtime which is also the most popular one. 
+
+Recently there have been many more additions in this space, adding more options to choose from.
+
+The idea is to do a comparative study of at least 5 available container runtimes
  
-	Demonstrate running an application of choice on the selected container runtimes.
-Measure the performance of each container. 
-Demonstrate unique features of each container runtime.
-Mention key differentiators in networking, storage and security for each runtime.
- 
+The comparison can be done based on various aspects like performance and features. 
