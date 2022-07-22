@@ -15,4 +15,4 @@ The comparison can be done based on various aspects like performance and feature
 
 Demo video:
 
-<p><img align="right" alt="vid" src="https://github.com/Sharat-Kizhakel/HPE-CTY/blob/main/DEMO_recording.mp4" width="500" height="350" /></p>
+https://user-images.githubusercontent.com/71307190/180511658-5d44c457-bb79-431f-b805-aaa711508e17.mp4
